@@ -1,6 +1,6 @@
 # Student of [Netology](https://netology.ru/)
 
-**Проейденные темы:**
+**Пройденные темы:**
 
 1. html/css
 1. JS
